@@ -1,4 +1,4 @@
-arr = [10, 20, 30, 40, 50]
+arr = [50,60,70,80,90]
 
 key = int(input("Enter number to search: "))
 
