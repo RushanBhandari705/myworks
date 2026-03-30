@@ -1,7 +1,7 @@
 #Write a program that prints all elements of the list that are divisible by both 4 and 5. Use the following list:
 # a = [10,20,25,30,40,45,50,60,80,85,100]
 
-a = [10,20,25,30,40,45,50,60,80,85,100]
+a = [10,20,25,30,40,45,50,60,80,85,100,120,155]
 for i in a:
     if i % 4 == 0 and i % 5 == 0:
         print(i)
