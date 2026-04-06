@@ -1,5 +1,4 @@
-#Write a program that contains two lists by alternating elements.
-# ['A','H','M'], ['@','#','&'] -> ['A','@','H','#','M','&']
+
 list1 = ['A','H','M']
 list2 = ['@','!','&']
 new_list = []
