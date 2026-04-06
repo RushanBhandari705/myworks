@@ -1,15 +1,4 @@
-#Write a program to store the values of the matrix given below in a 2D list. Then calculate the sum of the
-#diagonal elements, the sum of all elements above the diagonal and the sum of all elements above the diagonal, and the
-#sum of all the elements below the diagonal. Also find out the max and min element from the matrix.
 
-
-#A = [[1, 2, 3],
- #    [8, 9, 4],
- #    [7, 6, 5]]
-
-#B = [[2, 7, 6],
- #    [9, 5, 1],
- #    [4, 3, 8]]
 
 A = [[1, 2, 3],
      [8, 9, 4],
