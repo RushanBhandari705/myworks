@@ -1,5 +1,3 @@
-#Write a program that contains two lists of equal length and alternatingly taking elements. eg
-# ['a','b','c'], [1,2,3] -> ['a',1,'b',2,'c',3]
 
 list1 = ['a','b','c','d']
 list2 = [1,2,3,4]
