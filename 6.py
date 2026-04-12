@@ -1,5 +1,5 @@
 
-list1 = ['A','H','M']
+list1 = ['A','H','M','P']
 list2 = ['@','!','&']
 new_list = []
 for i in range(len(list1)):
